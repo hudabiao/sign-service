@@ -1,0 +1,8 @@
+/sign-server/target
+/sign-server/.idea
+/sign-server/sign-server.iml
+/sign-app/node_modules
+/sign-app/sign-ui.tar
+/sign-app/.idea
+/sign-app/sign-ui
+/sign-app/dist
